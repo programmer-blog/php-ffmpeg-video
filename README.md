@@ -17,8 +17,8 @@
 ### the video Source SRC is changed using jQuery
 
 
-TODO:
+##TODO:
 
-#### fix media play to paly all videos
+#### Fix media play to paly all videos
 
 
